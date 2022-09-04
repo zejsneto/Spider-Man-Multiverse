@@ -7,7 +7,7 @@ A Spider-Man Multiverse page, with a carousel, navbar, hover animations and inte
 ---
 
 ## 👁️‍🗨️ Preview
-Link: [View Demo](https://zejsneto.github.io/Spider-Man-Multiverse)<br>
+Link: [View Demo](https://zejsneto.github.io/Spider-Man-Multiverse/)<br>
 
 ---
 
