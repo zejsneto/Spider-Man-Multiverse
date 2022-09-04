@@ -1,0 +1,133 @@
+@import url('reset.css');
+@import url('global.css');
+@import url('../../assets/css/components/navigator.css');
+@import url('../../assets/css/components/pills.css');
+@import url('../../assets/css/components/link-button.css');
+@import url('../../assets/css/components/gallery.css');
+
+
+.s-wrapper {
+    display: flex;
+    height: 100vh;
+    flex-flow: row nowrap;
+}
+
+.s-wrapper .s-left-column {
+    width: 100px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    padding-right: 50px;
+    left: 0;
+    top: 0;
+    z-index: 1;
+}
+
+.s-wrapper .s-main-content {
+    height: 100%;
+    width: 100%;
+    padding-left: 130px;
+}
+
+.s-wrapper .s-main-content__top {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.s-wrapper .s-main-content__bottom {
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.s-wrapper .s-main-content .s-logo img {
+    margin-top: 50px;
+    margin-left: 0;
+    margin-bottom: 30px;
+}
+
+.s-wrapper .s-main-content__top .s-description {
+    background-color: rgba(0, 0, 0, .7);
+    max-width: 40%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.s-wrapper .s-main-content__top .s-description .s-description__text p {
+    color: white;
+    line-height: 170%;
+    margin-top: 10px;
+}
+
+.s-wrapper .s-main-content__top .s-description .pills {
+    margin-bottom: 10px;
+}
+
+.s-spider-man-tobey-1 {
+    background-image: url(../../assets/images/spiderman-tobey/movie-01/background.png);
+    background-size: cover;
+}
+
+.s-spider-man-tobey-2 {
+    background-image: url(../../assets/images/spiderman-tobey/movie-02/background.png);
+    background-size: cover;
+}
+
+.s-spider-man-tobey-3 {
+    background-image: url(../../assets/images/spiderman-tobey/movie-03/background.jpg);
+    background-size: cover;
+}
+
+.s-spider-man-andrew-1 {
+    background-image: url(../../assets/images/spiderman-andrew/movie-01/background.jpg);
+    background-size: cover;
+}
+
+.s-spider-man-andrew-2 {
+    background-image: url(../../assets/images/spiderman-andrew/movie-02/background.jpg);
+    background-size: cover;
+}
+
+.s-spider-man-tom-1 {
+    background-image: url(../../assets/images/spiderman-tom/movie-01/background.png);
+    background-size: cover;
+}
+
+.s-spider-man-tom-2 {
+    background-image: url(../../assets/images/spiderman-tom/movie-02/background.png);
+    background-size: cover;
+}
+.s-spider-man-tom-3 {
+    background-image: url(../../assets/images/spiderman-tom/movie-03/background.jpg);
+    background-size: cover;
+}
+
+.s-spider-man-spiderverse-1 {
+    background-image: url(../../assets/images/spiderman-spiderverse/movie-01/background.jpg);
+    background-size: cover;
+}
+
+.s-spider-man-spiderverse-2 {
+    background-image: url(../../assets/images/spiderman-spiderverse/movie-02/background.jpg);
+    background-size: cover;
+}
+
+.s-spider-man-game-1 {
+    background-image: url(../../assets/images/spiderman-gameverse/game-01/background.jpg);
+    background-size: cover;
+}
+
+.s-spider-man-game-2 {
+    background-image: url(../../assets/images/spiderman-gameverse/game-02/background.jpg);
+    background-size: cover;
+}
+
+.s-spider-man-game-3 {
+    background-image: url(../../assets/images/spiderman-gameverse/game-03/background.png);
+    background-size: cover;
+}
