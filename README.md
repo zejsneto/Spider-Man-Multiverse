@@ -26,4 +26,4 @@ Link: [View Demo](https://zejsneto.github.io/Spider-Man-Multiverse/)<br>
 ![YouTubeChannel](https://img.shields.io/badge/--05122A?style=flat&logo=youtube)&nbsp;
 [Channel](https://www.youtube.com/c/DigitalInnovationOne)<br>
 ![YouTubeVideo](https://img.shields.io/badge/--05122A?style=flat&logo=youtube)&nbsp;
-[Tutorial Video](https://web.dio.me/lab/multiverso-spider-man-criando-um-site-com-html-css-e-javascript/learning/8e433153-5ac9-49ea-b2e6-38a5a93b4f21)<br>
+[Tutorial Video](https://www.youtube.com/watch?v=a29-lfFi9Qc&ab_channel=DigitalInnovationOne)<br>
