@@ -4,10 +4,20 @@
 
 A Spider-Man Multiverse page, with a carousel, navbar, hover animations and integrated pages, made with HTML, CSS and JavaScript.
 
+Link: [View Demo](https://zejsneto.github.io/Spider-Man-Multiverse/)<br>
+
 ---
 
 ## 👁️‍🗨️ Preview
-Link: [View Demo](https://zejsneto.github.io/Spider-Man-Multiverse/)<br>
+<p align="center" >
+  <img width="70%" src="/repository-imgs/img01.png" />
+</p>
+<p align="center" >
+  <img width="70%" src="/repository-imgs/img02.png" />
+</p>
+<p align="center" >
+  <img width="70%" src="/repository-imgs/img03.png" />
+</p>
 
 ---
 
